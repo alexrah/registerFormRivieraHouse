@@ -1,0 +1,18 @@
+{
+  "name": "registerFormRivieraHouse",
+  "version": "0.0.0",
+  "description": "",
+  "main": "registerFormRivieraHouse.html",
+  "dependencies": {
+    "connect": "~2.21.1",
+    "serve-static": "~1.3.0",
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
